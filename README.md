@@ -9,7 +9,7 @@ To replicate this analysis, you need to have the following installed on your sys
 
 - Python (version 3.6 or higher)
 - Jupyter Notebook
-- Required Python packages (listed in `requirements.txt`)
+- Required Python packages
 
 To install the necessary Python packages, run:
 ```sh
